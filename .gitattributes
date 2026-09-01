@@ -1,0 +1,12 @@
+src/**/*.ts linguist-detectable
+*.bat text eol=crlf
+build/* linguist-vendored
+dist/* linguist-vendored
+public/*.html linguist-vendored
+
+src/** linguist-detectable
+*.gif binary
+*.png binary
+*.svg text
+public/** linguist-vendored
+# eof 8d70a96d
